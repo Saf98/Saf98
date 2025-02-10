@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**Saf98/Saf98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 Currently Working on
 
-Here are some ideas to get you started:
+- Personal Portfolio
+- Mobile Chat App
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+- **Languages:** [JavaScript]
+- **Frameworks:** [React, NextJS]
+
+## 📂 My Projects
+
+Here are a few of my favorite projects:
+
+- [Portfolio](https://github.com/Saf98/portfolio): Personal Portfolio using NextJS and Contentful CMS.
+- [Mega Menu](https://github.com/Saf98/mega-menu-vanilla): Codepen Experimenting with greating vertical mega menu in Javascript.
+- [Star Wars Search & Filter](https://github.com/Saf98/SWAPI-ReactJS): Project to use Starwars API, to search characters and filter them, by using react.
